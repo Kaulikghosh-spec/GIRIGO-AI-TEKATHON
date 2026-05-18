@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Frontend-Python_Streamlit-blue)
 ![C++](https://img.shields.io/badge/Backend-Native_C++-red)
-![Status](https://img.shields.io/badge/Status-Tekathon_2k26_Ready-success)
+![Status](https://img.shields.io/badge/Status-Tekathon_2026_Ready-success)
 
 *GIRIGO-AI* is a context-aware, predictive routing engine built for smart-city infrastructure. Developed for Tekathon 2k26, it solves the severe traffic bottleneck issues in the Maheshtala corridor caused by sudden passenger surges and infrastructure damage.
 
