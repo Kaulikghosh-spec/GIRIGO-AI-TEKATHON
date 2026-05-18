@@ -34,7 +34,7 @@ GIRIGO-AI utilizes a highly optimized decoupled architecture:
 
 If you have any questions about **GIRIGO-AI**, want to collaborate, or just want to talk about pathfinding algorithms, feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-kaulikghosh123456789%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaulikghosh123456789@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kaulikghosh123456789%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaulikghosh123456789@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaulik-ghosh-372802351)
 
 *Formally active on GitHub and LinkedIn. For quick inquiries, please use LinkedIn messaging.*
